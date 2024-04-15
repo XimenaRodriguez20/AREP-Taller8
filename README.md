@@ -37,3 +37,13 @@ Como se puede evidenciar, se creo un nuevo comentario:
 Ahora se piden todos los comentarios:
 
 ![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812969/446bfd50-82bc-4d01-a5a0-62f9d31ca9e2)
+
+## Video
+
+* [Funcionamiento](https://youtu.be/XrMbX1HyBYA)
+
+## Autor
+
+* **Ximena Rodriguez**
+* **Jordy Bautista**
+* **Santiago Naranjo** 
