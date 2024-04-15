@@ -45,7 +45,9 @@ S3(bucket) -> Con el fin de guardar archivos estaticos
 ![Imagen de WhatsApp 2024-04-15 a las 00 07 36_47b3a015](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/8db04967-b6b1-44e2-8e62-6e157c800ac5)
 APIGateway -> Con el objetivo de establecer las rutas y respectivos métodos
 ![imagen](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/0636e452-f996-4b7a-8919-53a20f71dded)
+
 Lambdas
+
 ![imagen](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/cc037b54-309b-48c6-b394-df59f3421904)
 
 
