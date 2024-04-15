@@ -38,7 +38,7 @@ Ahora se piden todos los comentarios:
 
 ![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812969/446bfd50-82bc-4d01-a5a0-62f9d31ca9e2)
 
-###Servicios usados
+### Servicios usados
 Cognito -> Con el objetivo de realizar la autenticación
 ![Imagen de WhatsApp 2024-04-15 a las 00 05 21_8c3da91f](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/c855135a-367d-488a-954a-21243d1a9058)
 S3(bucket) -> Con el fin de guardar archivos estaticos
