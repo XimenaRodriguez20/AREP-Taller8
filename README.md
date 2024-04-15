@@ -59,7 +59,7 @@ Lambdas
 
 ## Video
 
-* [Funcionamiento](https://youtu.be/XrMbX1HyBYA)
+* [Funcionamiento](https://youtu.be/5C6L_fSHMk4)
 
 ## Autor
 
