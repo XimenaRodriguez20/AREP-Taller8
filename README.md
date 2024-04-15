@@ -38,12 +38,18 @@ Ahora se piden todos los comentarios:
 
 ![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812969/446bfd50-82bc-4d01-a5a0-62f9d31ca9e2)
 
-### Servicios usados
+## Servicios usados
+
 Cognito -> Con el objetivo de realizar la autenticación
+
 ![Imagen de WhatsApp 2024-04-15 a las 00 05 21_8c3da91f](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/c855135a-367d-488a-954a-21243d1a9058)
+
 S3(bucket) -> Con el fin de guardar archivos estaticos
+
 ![Imagen de WhatsApp 2024-04-15 a las 00 07 36_47b3a015](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/8db04967-b6b1-44e2-8e62-6e157c800ac5)
+
 APIGateway -> Con el objetivo de establecer las rutas y respectivos métodos
+
 ![imagen](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812833/0636e452-f996-4b7a-8919-53a20f71dded)
 
 Lambdas
