@@ -1,12 +1,12 @@
 # AREP-Taller8
 
-Para este taller vamos hacer uso de Amazon Web Service para los servicios de Usuario, Stream, Post, donde se va hacer uso de funciones lambda para los microservicios, S3 para el alojamiento de la pagina, para alojar los datos respectivamente del Stream y Posts, Cognito para la autenticacion y un api gatweay para comunicar las respectivas peticiones http a los diferentes servicios.  
+Para este taller vamos hacer uso de Amazon Web Service para los microservicios de Usuario, Stream, Post, donde se va hacer uso de funciones lambda para estos, se va a manejar S3 para el alojamiento de la pagina web, por otro lado, para alojar los datos de Stream y Posts se creo respectivamente una bases de datos para cada una esto con ayuda de DynamoDB, además para la autenticación se hizo uso del servcio Cognito y por ultimo se conecto la pagina web con una Api Gateway para comunicar las respectivas peticiones http a los diferentes servicios lambda.  
 
 ### Arquitectura 
 
 La arquitectura planteada y manejada para este proyecto fue la siguiente: 
 
-
+![Diagrama en blanco](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812926/cd5fe303-1906-41d7-abc4-f6c0c85affd9)
 
 ### Diseño
 
