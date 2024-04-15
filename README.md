@@ -16,9 +16,16 @@ Stream:
 
 ### Pruebas
 
+#### Post
+
 Para cada uno de Posts o de los Streams se manejo una base de datos hacemos peticiones get y post y podemos observar que esto esta funcionando:
 
 ![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812926/8bf65e19-c231-41fa-8029-94acb77d382f)
 
 ![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812926/c2c2df30-2ead-4abf-a01a-031dd3993c7a)
 
+#### Streams
+
+![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812969/0e1bce1a-dca7-45bb-88d4-cfaefc04f222)
+
+![image](https://github.com/XimenaRodriguez20/AREP-Taller8/assets/123812969/446bfd50-82bc-4d01-a5a0-62f9d31ca9e2)
